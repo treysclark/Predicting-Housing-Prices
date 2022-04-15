@@ -2,4 +2,4 @@ In 2019, Yahoo ran an article called "Meet the A.I. Landlord That’s Building a
 
 With such large players entering the market, it is worth asking: "Is predictive modeling only available to deep-pocketed Wall Street firms?" Or, is it possible for small players in the real estate industry to develop accurate housing models? The following report was created in Jupyter Notebook shows to how this is indeed possible.
 
-- [View Notebook](main.ipynb)
+- [View Notebook](notebook.ipynb)
